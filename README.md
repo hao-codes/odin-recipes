@@ -1,3 +1,3 @@
-Simple html pagse exercies which include my favorite food/recipes
+Simple html page exercies which include some simple food/recipes
 
 
